@@ -1,0 +1,9 @@
+{
+  "name": "qkreact-boilerplate",
+  "version": "0.1.0",
+  "description": "Quick React17 + webpack5 boilerplate",
+  "main": "index.js",
+  "author": "lany<lanbery@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
