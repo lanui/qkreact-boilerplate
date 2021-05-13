@@ -3,3 +3,27 @@ node_modules
 .env
 dist
 
+# log
+logs
+*.log
+
+# 
+.jekyll-metadata
+.htaccess
+.DS_Store
+.sass-cache
+
+
+# IDE 
+.idea
+/*.iml
+
+# Coverage reports
+/.nyc-coverage
+/.nyc-coverage-temp
+/lint-report.html
+/.nyc_output/
+
+
+# private 
+package-lock.json
